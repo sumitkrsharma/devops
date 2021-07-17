@@ -1,5 +1,5 @@
 ## Sample Pipeline
-![Preview](./Images/sample_pipelne.png)
+![Preview](../images/sample_pipelne.png)
 
 ## Installing git
 * Windows 
