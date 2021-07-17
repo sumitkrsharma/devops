@@ -1,3 +1,6 @@
+## Sample Pipeline
+![Preview](../Images/sample_pipelne.png)
+
 ## Installing git
 * Windows 
     * Chocolatey: 
